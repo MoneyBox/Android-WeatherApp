@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Weather</string>
+
+    <string name="location_permission_title">Location Services</string>
+    <string name="location_permission_body">In order to show your location on the map we need to have access to location services</string>
+    <string name="allow">Allow</string>
+    <string name="seven_day_forecast">7 Day Forecast</string>
+    <string name="last_updated">Updated: %1$s</string>
+    <string name="error_title">Something went wrong</string>
+    <string name="error_body">There was a problem updating the weather data, please try again later.</string>
+    <string name="ok">OK</string>
+    <string name="invalid_data_error_title">Invalid Weather Data</string>
+    <string name="invalid_data_error_body">Server responded with invalid data, please try again later.</string>
+</resources>
